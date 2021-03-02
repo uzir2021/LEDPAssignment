@@ -1,2 +1,0 @@
-# LEDPAssignment
-LEDP Assignment
